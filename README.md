@@ -13,7 +13,7 @@
       </a>
     </td>
     <td>
-      <a href="https://www.linkedin.com/in/tu%E1%BA%A5n-ki%E1%BB%87t-ph%E1%BA%A1m-723686325">
+      <a href="https://www.linkedin.com/in/kietpt2003">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
     </td>
