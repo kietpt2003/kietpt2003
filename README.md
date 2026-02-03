@@ -2,7 +2,7 @@
 <h1 align='center'>
   Welcome to my Github! I'm Pham Tuan Kiet
 </h1>
-<h3 align="center">A Vietnamese Software Engineer | Full-stack Developer</h3>
+<h3 align="center">A Vietnamese Software Engineer | Mobile Developer</h3>
 
 <table>
   <tr>
